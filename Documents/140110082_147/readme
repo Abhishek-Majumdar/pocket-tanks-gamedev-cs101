@@ -1,0 +1,41 @@
+
+                                                      CS 101 
+                                                       2015
+
+                                                     Team ID - 147
+                                                  BATTLE OF THE TANKS
+
+Abhishek Majumdar(group leader)       140110082
+Anagh Trivedi                         14D170019
+Ritu Jhare                            140010032
+Pooja Doifode                         140110039  
+
+Instructions :- 
+
+1)Install the following version of CodeBlocks ( integrated with the SIMPLECPP library ) : 
+  http://www.cse.iitb.ac.in/~ranade/simplecpp/CB-Simplecpp-setup.exe
+
+  In case there is some problem with the version , download the novice version :
+  http://www.cse.iitb.ac.in/~ranade/simplecpp/SimpleCodeBlocks.exe
+
+2)Open Code Blocks .
+
+3)Create new Project and select SIMPLECPP project .
+
+4)Add a new file of type C++ source ( from file ----> New )
+
+5)Open the folder 140110082_147 ----> Source . 
+
+6)Open the file " new_game" . 
+
+7)Copy its contents to the file you just created . ( Or you might just add this file to the project ) .
+
+8)Click on "Build and run " ( It has an icon of a gear tool ) .
+
+9)You're Ready to play the game . :) 
+
+                                            
+
+Youtube Screencast Link : https://youtu.be/V7nqwrDZmCg
+
+
